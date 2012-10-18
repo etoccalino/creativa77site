@@ -1,0 +1,6 @@
+.c10.c5>img[src*="image01"] {
+	float: right;
+}
+.c10.c5>img[src*="image02"] {
+	float: left;
+}
